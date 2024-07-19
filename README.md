@@ -12,3 +12,14 @@ Dice_Game is a fun and interactive game where players roll dice to achieve the h
 - Display the current score.
 - Reset the game to start over.
 - Responsive design for different screen sizes.
+
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Demo
+You can view a live demo of the project here: Dice_Game Demo
+
+Link to Repository
+GitHub Repository
+You can view a live demo of the project here: [Dice_Game Demo](https://adityamishra00.github.io/Dice_Game/)
