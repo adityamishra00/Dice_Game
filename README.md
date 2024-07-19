@@ -22,4 +22,4 @@ You can view a live demo of the project here: Dice_Game Demo
 
 Link to Repository
 GitHub Repository
-You can view a live demo of the project here: [Dice_Game Demo](https://adityamishra00.github.io/Dice_Game/)
+You can view a live demo of the project here: [Dice_Game Demo](https://rococo-banoffee-0c2342.netlify.app)
